@@ -1,4 +1,4 @@
-name: base
+name: mtan_dx
 channels:
   - defaults
   - conda-forge
